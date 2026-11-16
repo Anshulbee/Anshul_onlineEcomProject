@@ -19,5 +19,6 @@ public class TestLogin {
 
         System.out.println(token);
         System.out.println(user);
+        //Hotfix provided 1611
     }
 }
