@@ -34,5 +34,7 @@ public class TestLogin {
 
         System.out.println("Hotfix 1711_05");
         System.out.println("Hotfix 1711_05_01");
+
+        System.out.println("Feature1811_01");
     }
 }
